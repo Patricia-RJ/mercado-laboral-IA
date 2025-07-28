@@ -3,7 +3,7 @@
 Análisis del mercado global de IA 2025 & planificación de carrera profesional
 
 ## 📖 Descripción
-Este proyecto presenta un **análisis del mercado global de Inteligencia Artificial y planificación de carrera profesional**, basado en el dataset “Global AI Job Market & Salary Trends 2025” de Kaggle, que recopila más de 15 000 ofertas de empleo publicadas entre enero 2024 y abril 2025, con variables clave como salario, modalidad laboral, industria, experiencia, ubicación y habilidades principales
+Este proyecto presenta un **análisis del mercado global de Inteligencia Artificial y planificación de carrera profesional**, basado en el dataset “Global AI Job Market & Salary Trends 2025” de Kaggle, que recopila 15 000 ofertas de empleo publicadas entre enero 2024 y abril 2025, con variables clave como salario, modalidad laboral, industria, experiencia, ubicación y habilidades principales.
 
 El informe aborda los siguientes objetivos:
 - **Monitorizar la dinámica de oferta** de empleo en IA.
